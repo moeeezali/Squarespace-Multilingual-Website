@@ -13,7 +13,7 @@
 
       <header class="site-header">
         <!-- site navigation -->
-        <squarespace:navigation navigationId="frenchNav" template="french-navigation" />
+        <squarespace:navigation navigationId="urduNav" template="urdu-navigation" />
 
         <!-- site title or logo -->
         {.section website}
@@ -24,7 +24,7 @@
 
         <ul>
           <li><a href="/">English</a></li>
-          <li><a href="/french">French</a></li>
+          <li><a href="/urdu">Urdu</a></li>
         </ul>
       </header>
 
